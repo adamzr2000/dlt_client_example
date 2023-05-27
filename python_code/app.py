@@ -34,9 +34,9 @@ if __name__ == "__main__":
     while True:
         print("\n")
         print("+------------------------------+")
-        print("|  1. Add user                 |")
-        print("|  2. List users               |")
-        print("|  3. Modify user              |")
+        print("|  1. Create user              |")
+        print("|  2. Read users               |")
+        print("|  3. Update user              |")
         print("|  4. Delete user              |")
         print("|  5. Exit                     |")
         print("+------------------------------+")
